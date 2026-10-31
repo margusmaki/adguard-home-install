@@ -316,6 +316,61 @@ While being nice from a usability perspective, HaGeZi's Referral Allowlist and t
 
 `||statcounter.com^$important`
 
+||aan.amazon.com^$important
+||cdn.taboola.com^$important
+||redirector.googlevideo.com^$important
+||contextweb.com^$important
+||bcp.crwdcntrl.net^$important
+||sync-tm.everesttech.net^$important
+||tags.crwdcntrl.net^$important
+||bnc.lt^$important
+||control.kochava.com^$important
+||connect.facebook.net^$important
+||graph.facebook.com^$important
+||i.instagram.com^$important
+||vk.com/rtrg^$important
+||ngfts.lge.com^$important
+||privacyportal.onetrust.com^$important
+||consent.trustarc.com^$important
+||sdk.privacy-center.org^$important
+||cdn.privacy-mgmt.com^$important
+||cmp.inmobi.com^$important
+||www.anrdoezrs.net^$important
+||www.dpbolvw.net^$important
+||www.tkqlhce.com^$important
+||click.linksynergy.com^$important
+||www.awin1.com^$important
+||zenaps.com^$important
+||prf.hn^$important
+||t.pepperjamnetwork.com^$important
+||go.skimresources.com^$important
+||go.redirectingat.com^$important
+||redirect.viglink.com^$important
+||clientstream.launchdarkly.com^$important
+||click.mailchimp.com^$important
+||track.customer.io^$important
+||track.customer.io/events^$important
+||dai.google.com^$important
+||ssl.p.jwpcdn.com^$important
+||mssl.fwmrm.net^$important
+
+||adservice.google.*^$important
+||adsterra.com^$important
+||amplitude.com^$important
+||analytics.edgekey.net^$important
+||analytics.twitter.com^$important
+||app.adjust.*^$important
+||app.*.adjust.com^$important
+||app.appsflyer.com^$important
+||doubleclick.net^$important
+||googleadservices.com^$important
+||guce.advertising.com^$important
+||metric.gstatic.com^$important
+||mmstat.com^$important
+||statcounter.com^$important
+
+
+
 Now select **Apply**.
 
 # Additional recommendations
